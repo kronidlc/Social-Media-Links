@@ -123,7 +123,7 @@ ul li a {
   transition: background 0.2s;
 }
 
-/* pseudo-selector */
+/* pseudoselector */
 ul li a:hover {
   background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
